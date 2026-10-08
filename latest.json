@@ -1,24 +1,18 @@
 {
- "version": "4.2.0",
+ "version": "4.2.1",
  "date": "2026-10-08",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.2.0/SimByMHR-Setup-4.2.0.exe",
- "sha256": "71f8ac7d20b4e5c30156e83aa5670a8f6cdd5882b900769b2d962ea6891cb07c",
- "size": 11568020,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.2.1/SimByMHR-Setup-4.2.1.exe",
+ "sha256": "c05f0ffafaca42fc2868222f0667fdc21d71e70dee07aaf57bc7be554f8a805d",
+ "size": 11579600,
  "notes": {
   "fr": [
-   "Au lancement, SimByMHR regarde s'il existe une nouvelle version. Si oui, un bouton « Mise à jour » apparaît en bas du menu (et sur l'accueil) avec les nouveautés. Un clic : le jeu télécharge la nouvelle version, l'installe et se relance tout seul. Tes profils et ta carrière ne bougent pas.",
-   "Sécurité : chaque mise à jour est signée par SimByMHR. Le jeu vérifie la signature et l'empreinte du fichier avant de l'installer ; une mise à jour modifiée ou incomplète est refusée.",
-   "Pas de mise à jour pendant un vol : termine-le ou annule-le d'abord.",
-   "Aide > Version : rechercher une mise à jour à la main, ou couper la recherche automatique au lancement.",
-   "Page de téléchargement publique : github.com/RedMHR41/SimByMHR-releases"
+   "Après une mise à jour, SimByMHR affiche une fois ce qui a changé, dès l'écran d'accueil. Tu peux les relire quand tu veux dans Aide > Version > « Nouveautés ».",
+   "C'est la première version livrée par la mise à jour automatique : depuis la 4.2.0, un clic sur « Mise à jour » suffit, plus besoin de télécharger l'installateur."
   ],
   "en": [
-   "At launch, SimByMHR checks whether a new version exists. If so, an \"Update\" button appears at the bottom of the menu (and on the home page) with what's new. One click: the game downloads the new version, installs it and restarts by itself. Your profiles and career stay as they are.",
-   "Security: every update is signed by SimByMHR. The game checks the signature and the file fingerprint before installing; a modified or incomplete update is refused.",
-   "No updates during a flight: finish or cancel it first.",
-   "Help > Version: check for updates by hand, or turn off the automatic check at launch.",
-   "Public download page: github.com/RedMHR41/SimByMHR-releases"
+   "After an update, SimByMHR shows once what has changed, right on the home screen. You can read it again any time in Help > Version > \"What's new\".",
+   "This is the first version delivered by automatic update: since 4.2.0, one click on \"Update\" is all it takes, no need to download the installer."
   ]
  },
- "sig": "8fd3872697fe2f37d966056c685816b544dde41d9692baa0da57f3e31aa7aeb108a291b12ad2057b916be9293f3794b770909b13721312a19471211c2437d00b"
+ "sig": "9ba5d3b25968d6173092c8cc91907ce2e65dec361b806478a11e1f912c2f48e9c1a91d634b6781b883afd4fcda305d7716f69472a071f403b86819b8db417104"
 }

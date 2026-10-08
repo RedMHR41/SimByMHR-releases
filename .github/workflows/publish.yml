@@ -1,0 +1,59 @@
+# Publication d'une version de SimByMHR, déclenchée par l'envoi d'une branche « publication-vX.Y.Z »
+# (préparée par build/publish.py dans le dépôt privé) qui contient l'installateur et latest.json déjà signé.
+# 1. crée la release vX.Y.Z avec l'installateur ; 2. met latest.json et README.md sur main ; 3. supprime la branche.
+name: Publication
+
+on:
+  push:
+    branches: ['publication-v*']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publication
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Release GitHub avec l'installateur
+        id: rel
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          v=$(python3 -c "import json;print(json.load(open('latest.json'))['version'])")
+          f="SimByMHR-Setup-$v.exe"
+          test -f "$f"
+          echo "version=$v" >> "$GITHUB_OUTPUT"
+          python3 - "$v" > notes.md <<'PY'
+          import json, sys
+          d = json.load(open("latest.json", encoding="utf-8"))
+          print(f"## SimByMHR {sys.argv[1]}\n")
+          print("\n".join(f"- {x}" for x in d["notes"].get("fr", [])))
+          print("\n### English\n")
+          print("\n".join(f"- {x}" for x in d["notes"].get("en", [])))
+          print(f"\nTélécharge / download **SimByMHR-Setup-{sys.argv[1]}.exe** ci-dessous / below.")
+          PY
+          if gh release view "v$v" >/dev/null 2>&1; then
+            gh release upload "v$v" "$f" --clobber
+          else
+            gh release create "v$v" "$f" --title "SimByMHR $v" --notes-file notes.md --target main
+          fi
+
+      - name: latest.json et README.md sur main, suppression de la branche
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp latest.json README.md "$RUNNER_TEMP/"
+          git checkout main
+          cp "$RUNNER_TEMP/latest.json" "$RUNNER_TEMP/README.md" .
+          git add latest.json README.md
+          git commit -m "SimByMHR ${{ steps.rel.outputs.version }}" || echo "rien à changer"
+          git push origin main
+          git push origin --delete "$GITHUB_REF_NAME"

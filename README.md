@@ -5,7 +5,7 @@ Pilot career and airline management for Microsoft Flight Simulator 2020.
 
 ## Télécharger / Download
 
-**[SimByMHR-Setup-4.6.0.exe](https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.6.0/SimByMHR-Setup-4.6.0.exe)** · version 4.6.0 · 10/10/2026
+**[SimByMHR-Setup-4.6.1.exe](https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.6.1/SimByMHR-Setup-4.6.1.exe)** · version 4.6.1 · 10/10/2026
 
 Toutes les versions / all versions : [Releases](https://github.com/RedMHR41/SimByMHR-releases/releases)
 

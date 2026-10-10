@@ -1,20 +1,20 @@
 {
- "version": "4.6.0",
+ "version": "4.6.1",
  "date": "2026-10-10",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.6.0/SimByMHR-Setup-4.6.0.exe",
- "sha256": "bc7dcda4bf89ff6e42fb147e8aa489dd73a8a67536efa5d04ba0b0b647e6ab60",
- "size": 11634791,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.6.1/SimByMHR-Setup-4.6.1.exe",
+ "sha256": "1a6ea5d598514fd89670ec7b56f6074e3932d12196a18f6ce231eab0cda01fe7",
+ "size": 11640187,
  "notes": {
   "fr": [
-   "Au lancement, un écran de chargement : l'arc du cap se dessine, puis l'avion de l'icône relie Sim, By et MHR pendant que le jeu se charge. Chaque point s'allume quand son étape est terminée (aéroports, puis pilotes et compagnie) ; à l'arrivée, SimByMHR s'affiche et l'accueil apparaît.",
-   "Un clic ou la touche Échap le passe. Il se désactive dans les Réglages (« Écran de chargement au lancement », pour ce PC).",
-   "L'accueil prend lui aussi l'avion de l'icône du bureau."
+   "Missions freelance : quand tu es loin de ta base (ton aéroport de résidence), un vol de retour est toujours proposé en tête de liste, à vide ou avec des passagers ou du fret.",
+   "L'accueil reprend les points Sim, By et MHR de l'écran de chargement.",
+   "L'avion de l'icône du bureau remplace l'ancien sur les cartes (Vol en cours, Bureau) et sur les billets des missions."
   ],
   "en": [
-   "A loading screen at startup: the heading arc draws itself, then the aircraft from the icon flies from Sim to By to MHR while the game loads. Each point lights up when its step is done (airports, then pilots and company); on arrival, SimByMHR appears and the home screen opens.",
-   "A click or the Esc key skips it. It can be turned off in Settings (\"Loading screen at startup\", for this PC).",
-   "The home screen also uses the aircraft from the desktop icon."
+   "Freelance missions: when you are away from your base (your home airport), a flight back is always offered at the top of the list, empty or with passengers or cargo.",
+   "The home screen now shows the Sim, By and MHR points of the loading screen.",
+   "The aircraft from the desktop icon replaces the old one on the maps (Current flight, Office) and on the mission tickets."
   ]
  },
- "sig": "f683d9f88b65c8d6d798c0a9ae6325f4c64fd96cd7716f95828a74e207be16f5f73f2fad2336ea148a514da408e95157dff1a322e178f382158962c5540dd70d"
+ "sig": "4e54029693fc87c1263589a8ff9b0727b2210ae6dc4ca709cb4237f6a37427ebe99cd600a7213e65399939101eeae38b0b08054cfe91f70432fbfa028c2a8206"
 }

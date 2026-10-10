@@ -1,29 +1,26 @@
 {
- "version": "4.3.0",
+ "version": "4.4.0",
  "date": "2026-10-10",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.3.0/SimByMHR-Setup-4.3.0.exe",
- "sha256": "fc4eb001e362aad6b5fa5dc38865dd8c02ba6a7ebf8259630c07891ee4e3d1fe",
- "size": 11590318,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.4.0/SimByMHR-Setup-4.4.0.exe",
+ "sha256": "41715bd3599dd9a299cd4644cb95b94f8568043b77a58422e769664ca5365946",
+ "size": 11607585,
  "notes": {
   "fr": [
-   "Un nouveau pilote démarre débutant, comme dans la vraie vie : aucune licence, 5 000 € d'économies et 0 h de vol. La case « Heures déjà volées » disparaît.",
-   "Édition complète : les niveaux de départ avancés (PPL, CPL, prêt pour la ligne), les capitaux de départ « Solide » (1 500 000 €) et « Investisseur » (5 000 000 €) et l'achat comptant du premier avion. Un départ avancé crédite les heures minimales de ses licences. En attendant les clés de licence, elle s'active pour ce PC dans Réglages > Édition.",
-   "Création de la compagnie : nouvelle case « Capital de départ ». Le départ de base, c'est ton apport plus un prêt bancaire, avec le premier avion en leasing.",
-   "La banque ne prête qu'à partir de 10 000 € d'apport, jusqu'à 4 fois l'apport. En dessous, tu fondes ta compagnie avec tes seules économies.",
-   "Carte du Bureau : une roue crantée pour choisir les vols affichés (les 10 ou 30 derniers, tous ou aucun), leur tracé (la trajectoire réelle enregistrée pendant le vol, ou une ligne droite) et les types de vol.",
-   "Carte du vol en cours : bouton « Suivre l'avion ». La carte reste centrée sur l'avion sans changer le zoom ; déplacer la carte à la main met le suivi en pause.",
-   "Typographie : un guillemet ou un deux-points ne se retrouve plus seul en début de ligne.",
-   "Tes carrières en cours ne changent pas."
+   "Les vols spéciaux passent du Bureau à Missions freelance, dans un nouvel onglet. Le Bureau garde un raccourci.",
+   "Un pilote sans CPL les débloque après 5 h de vols aéroclub au rythme accéléré (100 h au rythme réaliste). Le partage de frais, les vols de club et les vols d'entraînement comptent.",
+   "Pour un pilote privé : rallyes, concours de précision d'atterrissage et rassemblements. L'organisateur paie la location et verse un prix selon ton résultat (note du vol, note de l'atterrissage ou arrivée), si tu pars dans le créneau.",
+   "Avec le CPL : vols payés à l'heure, avec une prime qui grandit avec l'avion (jusqu'à 2,2 fois plus en jet ou en avion de ligne).",
+   "Filtre par avion, ou tous les avions. « Autres vols » ajoute des vols à la liste, 2 fois : chaque fois revient au bout d'1 h, ou tout de suite après un vol spécial. Au plus 2 vols par catégorie et par avion.",
+   "Équilibrage : sans prêt, un pilote privé paie son CPL en 15 à 20 vols spéciaux environ."
   ],
   "en": [
-   "A new pilot starts as a beginner, as in real life: no licence, €5,000 in savings and 0 flight hours. The \"Hours already flown\" field is gone.",
-   "Complete edition: advanced starting levels (PPL, CPL, airline-ready), the \"Solid\" (€1,500,000) and \"Investor\" (€5,000,000) starting capitals and buying the first aircraft outright. An advanced start credits the minimum hours of its licences. Until licence keys arrive, it is enabled for this PC in Settings > Edition.",
-   "Founding a company: new \"Starting capital\" choice. The basic start is your personal capital plus a bank loan, with the first aircraft on lease.",
-   "The bank only lends from €10,000 of personal capital, up to 4 times that amount. Below it, you found your company with your savings alone.",
-   "Office map: a gear button to choose the flights shown (last 10 or 30, all or none), their track (the actual path recorded during the flight, or a straight line) and the flight types.",
-   "Current flight map: \"Follow aircraft\" button. The map stays centred on the aircraft without changing the zoom; dragging the map by hand pauses following.",
-   "Your careers in progress do not change."
+   "Special flights move from the Office to Freelance missions, in a new tab. The Office keeps a shortcut.",
+   "A pilot without a CPL unlocks them after 5 h of flying club flights at the accelerated pace (100 h at the realistic pace). Cost sharing, club and training flights all count.",
+   "For a private pilot: rallies, precision landing contests and fly-ins. The organiser pays the rental and awards a prize based on your result (flight score, landing score or arrival), if you depart within the slot.",
+   "With the CPL: flights paid by the hour, with a bonus that grows with the aircraft (up to 2.2 times more in a jet or an airliner).",
+   "Filter by aircraft, or all aircraft. \"More flights\" adds flights to the list twice: each comes back after 1 h, or straight away after a special flight. At most 2 flights per category and per aircraft.",
+   "Balance: without a loan, a private pilot pays for the CPL in roughly 15 to 20 special flights."
   ]
  },
- "sig": "52fc99e96b1c0b5f0a0afd35290f27c075346c7fd2bfa1e959109c5911fb072c5399979608067d1ba04238c9aa9a90b0a81c4bf7b7a395a22da51d4c9c24ce07"
+ "sig": "79862f00cf6619dc0fb75c24bfc45284e78738eb81f7c6ef16f1d2e9246def9fc61b39940ecb99c4943f4f575a21055f0d1a81494500500e183fe49d2edcc300"
 }

@@ -1,18 +1,20 @@
 {
- "version": "4.5.1",
+ "version": "4.6.0",
  "date": "2026-10-10",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.5.1/SimByMHR-Setup-4.5.1.exe",
- "sha256": "1dd8d93283b5fd51d48a9ef96540cae5632f5b4455915cf34342a70f38f72645",
- "size": 11628552,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.6.0/SimByMHR-Setup-4.6.0.exe",
+ "sha256": "bc7dcda4bf89ff6e42fb147e8aa489dd73a8a67536efa5d04ba0b0b647e6ab60",
+ "size": 11634791,
  "notes": {
   "fr": [
-   "Les missions et le planning proposés avant la 4.5.0 ont aussi leur heure de départ prévue, tirée de leur créneau (« Ce matin » → 08:00) ou de l'heure du planning.",
-   "Villes d'aérodromes corrigées (erreurs de la base OurAirports) : Soulac- sur-Mer (LFDK, affiché « Pamiers »), Loudun, Jonzac, Dax, Villefranche-de- Rouergue, Fumel, Le Louroux, Ploërmel, La Môle."
+   "Au lancement, un écran de chargement : l'arc du cap se dessine, puis l'avion de l'icône relie Sim, By et MHR pendant que le jeu se charge. Chaque point s'allume quand son étape est terminée (aéroports, puis pilotes et compagnie) ; à l'arrivée, SimByMHR s'affiche et l'accueil apparaît.",
+   "Un clic ou la touche Échap le passe. Il se désactive dans les Réglages (« Écran de chargement au lancement », pour ce PC).",
+   "L'accueil prend lui aussi l'avion de l'icône du bureau."
   ],
   "en": [
-   "Jobs and rosters offered before 4.5.0 also get their scheduled departure time, taken from their slot (\"This morning\" → 08:00) or the roster time.",
-   "Airfield towns corrected (errors in the OurAirports database): Soulac-sur- Mer (LFDK, shown as \"Pamiers\"), Loudun, Jonzac, Dax, Villefranche-de- Rouergue, Fumel, Le Louroux, Ploërmel, La Môle."
+   "A loading screen at startup: the heading arc draws itself, then the aircraft from the icon flies from Sim to By to MHR while the game loads. Each point lights up when its step is done (airports, then pilots and company); on arrival, SimByMHR appears and the home screen opens.",
+   "A click or the Esc key skips it. It can be turned off in Settings (\"Loading screen at startup\", for this PC).",
+   "The home screen also uses the aircraft from the desktop icon."
   ]
  },
- "sig": "54be0651fc670684345d44bd115f22a43e3f1f7c221c81cc02fa96f060d5a795dff4b92cfbe4ab88e04832180e251a4e153369002d7df71ba44f0c83c6437a0a"
+ "sig": "f683d9f88b65c8d6d798c0a9ae6325f4c64fd96cd7716f95828a74e207be16f5f73f2fad2336ea148a514da408e95157dff1a322e178f382158962c5540dd70d"
 }

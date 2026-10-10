@@ -1,24 +1,18 @@
 {
- "version": "4.5.0",
+ "version": "4.5.1",
  "date": "2026-10-10",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.5.0/SimByMHR-Setup-4.5.0.exe",
- "sha256": "3c890c3a4dd3bb4963451d5d27958d26b5a5ff371b1c8fdc83c78ef0ac4ea6af",
- "size": 11626808,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.5.1/SimByMHR-Setup-4.5.1.exe",
+ "sha256": "1dd8d93283b5fd51d48a9ef96540cae5632f5b4455915cf34342a70f38f72645",
+ "size": 11628552,
  "notes": {
   "fr": [
-   "Les horaires suivent maintenant l'heure de MSFS, plus l'horloge du PC : tu voles quand tu veux dans la vraie vie. Règle l'heure du simulateur (barre d'outils > Heure et météo, heure réelle désactivée) sur l'heure du vol.",
-   "Chaque vol a une heure de départ prévue : celle du planning en compagnie aérienne (UTC), celle demandée par le client pour ta compagnie, le freelance et l'aéroclub (« Ce matin » → 08:00, modifiable dans le créneau du client), ou celle de ton OFP SimBrief à l'import.",
-   "Ponctualité au départ, jugée à l'heure du simulateur au retrait des cales : de 1 à 15 min d'avance, bonus de départ en avance (+3 % de la facture pour ta compagnie, +5 % en freelance, prime de ponctualité en compagnie aérienne, +10 XP en aéroclub) ; jusqu'à 15 min de retard, à l'heure ; au-delà, 3, 6 ou 10 points de moins ; plus de 15 min d'avance avec des passagers, 2 points de moins (ils ne sont pas tous à bord).",
-   "Vol en cours : un panneau « Horaires » avec l'heure prévue, l'heure du simulateur (compte à rebours, fenêtre du bonus, retard) et l'heure réelle avec l'heure de fin estimée.",
-   "Vols spéciaux : créneau en heure du simulateur, et chaque vol reste proposé 48 h en temps réel. Le vol vu le matin t'attend le soir."
+   "Les missions et le planning proposés avant la 4.5.0 ont aussi leur heure de départ prévue, tirée de leur créneau (« Ce matin » → 08:00) ou de l'heure du planning.",
+   "Villes d'aérodromes corrigées (erreurs de la base OurAirports) : Soulac- sur-Mer (LFDK, affiché « Pamiers »), Loudun, Jonzac, Dax, Villefranche-de- Rouergue, Fumel, Le Louroux, Ploërmel, La Môle."
   ],
   "en": [
-   "Schedules now follow the MSFS clock instead of the PC clock: you fly whenever you like in real life. Set the simulator time (toolbar > Time and weather, live time off) to the flight's time.",
-   "Every flight has a scheduled departure time: the roster's at an airline (UTC), the client's for your company, freelance and flying club flights (\"This morning\" → 08:00, adjustable within the client's slot), or your SimBrief OFP's when imported.",
-   "Departure punctuality, judged on the simulator clock at off blocks: 1 to 15 min early, early departure bonus (+3% of the invoice for your company, +5% freelance, punctuality bonus at an airline, +10 XP at the flying club); up to 15 min late, on time; beyond that, 3, 6 or 10 points off; more than 15 min early with passengers, 2 points off (not all of them are on board).",
-   "Current flight: a \"Schedule\" panel with the scheduled time, the simulator time (countdown, bonus window, delay) and the real time with the estimated finish.",
-   "Special flights: slot in simulator time, and each flight stays on offer for 48 h of real time. The flight you saw in the morning waits for you in the evening."
+   "Jobs and rosters offered before 4.5.0 also get their scheduled departure time, taken from their slot (\"This morning\" → 08:00) or the roster time.",
+   "Airfield towns corrected (errors in the OurAirports database): Soulac-sur- Mer (LFDK, shown as \"Pamiers\"), Loudun, Jonzac, Dax, Villefranche-de- Rouergue, Fumel, Le Louroux, Ploërmel, La Môle."
   ]
  },
- "sig": "b11d1b2b7d76dabfda5ab95a42fac2738751c2dbd4d6eca563fd22159db4c7be31ff1ba812888ef1ce4cb52a3784719e996085d3d8535fb8faee938d0b1a9000"
+ "sig": "54be0651fc670684345d44bd115f22a43e3f1f7c221c81cc02fa96f060d5a795dff4b92cfbe4ab88e04832180e251a4e153369002d7df71ba44f0c83c6437a0a"
 }

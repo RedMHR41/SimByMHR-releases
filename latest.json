@@ -1,18 +1,29 @@
 {
- "version": "4.2.1",
- "date": "2026-10-08",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.2.1/SimByMHR-Setup-4.2.1.exe",
- "sha256": "c05f0ffafaca42fc2868222f0667fdc21d71e70dee07aaf57bc7be554f8a805d",
- "size": 11579600,
+ "version": "4.3.0",
+ "date": "2026-10-10",
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.3.0/SimByMHR-Setup-4.3.0.exe",
+ "sha256": "fc4eb001e362aad6b5fa5dc38865dd8c02ba6a7ebf8259630c07891ee4e3d1fe",
+ "size": 11590318,
  "notes": {
   "fr": [
-   "Après une mise à jour, SimByMHR affiche une fois ce qui a changé, dès l'écran d'accueil. Tu peux les relire quand tu veux dans Aide > Version > « Nouveautés ».",
-   "C'est la première version livrée par la mise à jour automatique : depuis la 4.2.0, un clic sur « Mise à jour » suffit, plus besoin de télécharger l'installateur."
+   "Un nouveau pilote démarre débutant, comme dans la vraie vie : aucune licence, 5 000 € d'économies et 0 h de vol. La case « Heures déjà volées » disparaît.",
+   "Édition complète : les niveaux de départ avancés (PPL, CPL, prêt pour la ligne), les capitaux de départ « Solide » (1 500 000 €) et « Investisseur » (5 000 000 €) et l'achat comptant du premier avion. Un départ avancé crédite les heures minimales de ses licences. En attendant les clés de licence, elle s'active pour ce PC dans Réglages > Édition.",
+   "Création de la compagnie : nouvelle case « Capital de départ ». Le départ de base, c'est ton apport plus un prêt bancaire, avec le premier avion en leasing.",
+   "La banque ne prête qu'à partir de 10 000 € d'apport, jusqu'à 4 fois l'apport. En dessous, tu fondes ta compagnie avec tes seules économies.",
+   "Carte du Bureau : une roue crantée pour choisir les vols affichés (les 10 ou 30 derniers, tous ou aucun), leur tracé (la trajectoire réelle enregistrée pendant le vol, ou une ligne droite) et les types de vol.",
+   "Carte du vol en cours : bouton « Suivre l'avion ». La carte reste centrée sur l'avion sans changer le zoom ; déplacer la carte à la main met le suivi en pause.",
+   "Typographie : un guillemet ou un deux-points ne se retrouve plus seul en début de ligne.",
+   "Tes carrières en cours ne changent pas."
   ],
   "en": [
-   "After an update, SimByMHR shows once what has changed, right on the home screen. You can read it again any time in Help > Version > \"What's new\".",
-   "This is the first version delivered by automatic update: since 4.2.0, one click on \"Update\" is all it takes, no need to download the installer."
+   "A new pilot starts as a beginner, as in real life: no licence, €5,000 in savings and 0 flight hours. The \"Hours already flown\" field is gone.",
+   "Complete edition: advanced starting levels (PPL, CPL, airline-ready), the \"Solid\" (€1,500,000) and \"Investor\" (€5,000,000) starting capitals and buying the first aircraft outright. An advanced start credits the minimum hours of its licences. Until licence keys arrive, it is enabled for this PC in Settings > Edition.",
+   "Founding a company: new \"Starting capital\" choice. The basic start is your personal capital plus a bank loan, with the first aircraft on lease.",
+   "The bank only lends from €10,000 of personal capital, up to 4 times that amount. Below it, you found your company with your savings alone.",
+   "Office map: a gear button to choose the flights shown (last 10 or 30, all or none), their track (the actual path recorded during the flight, or a straight line) and the flight types.",
+   "Current flight map: \"Follow aircraft\" button. The map stays centred on the aircraft without changing the zoom; dragging the map by hand pauses following.",
+   "Your careers in progress do not change."
   ]
  },
- "sig": "9ba5d3b25968d6173092c8cc91907ce2e65dec361b806478a11e1f912c2f48e9c1a91d634b6781b883afd4fcda305d7716f69472a071f403b86819b8db417104"
+ "sig": "52fc99e96b1c0b5f0a0afd35290f27c075346c7fd2bfa1e959109c5911fb072c5399979608067d1ba04238c9aa9a90b0a81c4bf7b7a395a22da51d4c9c24ce07"
 }

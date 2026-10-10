@@ -1,26 +1,24 @@
 {
- "version": "4.4.0",
+ "version": "4.5.0",
  "date": "2026-10-10",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.4.0/SimByMHR-Setup-4.4.0.exe",
- "sha256": "41715bd3599dd9a299cd4644cb95b94f8568043b77a58422e769664ca5365946",
- "size": 11607585,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.5.0/SimByMHR-Setup-4.5.0.exe",
+ "sha256": "3c890c3a4dd3bb4963451d5d27958d26b5a5ff371b1c8fdc83c78ef0ac4ea6af",
+ "size": 11626808,
  "notes": {
   "fr": [
-   "Les vols spéciaux passent du Bureau à Missions freelance, dans un nouvel onglet. Le Bureau garde un raccourci.",
-   "Un pilote sans CPL les débloque après 5 h de vols aéroclub au rythme accéléré (100 h au rythme réaliste). Le partage de frais, les vols de club et les vols d'entraînement comptent.",
-   "Pour un pilote privé : rallyes, concours de précision d'atterrissage et rassemblements. L'organisateur paie la location et verse un prix selon ton résultat (note du vol, note de l'atterrissage ou arrivée), si tu pars dans le créneau.",
-   "Avec le CPL : vols payés à l'heure, avec une prime qui grandit avec l'avion (jusqu'à 2,2 fois plus en jet ou en avion de ligne).",
-   "Filtre par avion, ou tous les avions. « Autres vols » ajoute des vols à la liste, 2 fois : chaque fois revient au bout d'1 h, ou tout de suite après un vol spécial. Au plus 2 vols par catégorie et par avion.",
-   "Équilibrage : sans prêt, un pilote privé paie son CPL en 15 à 20 vols spéciaux environ."
+   "Les horaires suivent maintenant l'heure de MSFS, plus l'horloge du PC : tu voles quand tu veux dans la vraie vie. Règle l'heure du simulateur (barre d'outils > Heure et météo, heure réelle désactivée) sur l'heure du vol.",
+   "Chaque vol a une heure de départ prévue : celle du planning en compagnie aérienne (UTC), celle demandée par le client pour ta compagnie, le freelance et l'aéroclub (« Ce matin » → 08:00, modifiable dans le créneau du client), ou celle de ton OFP SimBrief à l'import.",
+   "Ponctualité au départ, jugée à l'heure du simulateur au retrait des cales : de 1 à 15 min d'avance, bonus de départ en avance (+3 % de la facture pour ta compagnie, +5 % en freelance, prime de ponctualité en compagnie aérienne, +10 XP en aéroclub) ; jusqu'à 15 min de retard, à l'heure ; au-delà, 3, 6 ou 10 points de moins ; plus de 15 min d'avance avec des passagers, 2 points de moins (ils ne sont pas tous à bord).",
+   "Vol en cours : un panneau « Horaires » avec l'heure prévue, l'heure du simulateur (compte à rebours, fenêtre du bonus, retard) et l'heure réelle avec l'heure de fin estimée.",
+   "Vols spéciaux : créneau en heure du simulateur, et chaque vol reste proposé 48 h en temps réel. Le vol vu le matin t'attend le soir."
   ],
   "en": [
-   "Special flights move from the Office to Freelance missions, in a new tab. The Office keeps a shortcut.",
-   "A pilot without a CPL unlocks them after 5 h of flying club flights at the accelerated pace (100 h at the realistic pace). Cost sharing, club and training flights all count.",
-   "For a private pilot: rallies, precision landing contests and fly-ins. The organiser pays the rental and awards a prize based on your result (flight score, landing score or arrival), if you depart within the slot.",
-   "With the CPL: flights paid by the hour, with a bonus that grows with the aircraft (up to 2.2 times more in a jet or an airliner).",
-   "Filter by aircraft, or all aircraft. \"More flights\" adds flights to the list twice: each comes back after 1 h, or straight away after a special flight. At most 2 flights per category and per aircraft.",
-   "Balance: without a loan, a private pilot pays for the CPL in roughly 15 to 20 special flights."
+   "Schedules now follow the MSFS clock instead of the PC clock: you fly whenever you like in real life. Set the simulator time (toolbar > Time and weather, live time off) to the flight's time.",
+   "Every flight has a scheduled departure time: the roster's at an airline (UTC), the client's for your company, freelance and flying club flights (\"This morning\" → 08:00, adjustable within the client's slot), or your SimBrief OFP's when imported.",
+   "Departure punctuality, judged on the simulator clock at off blocks: 1 to 15 min early, early departure bonus (+3% of the invoice for your company, +5% freelance, punctuality bonus at an airline, +10 XP at the flying club); up to 15 min late, on time; beyond that, 3, 6 or 10 points off; more than 15 min early with passengers, 2 points off (not all of them are on board).",
+   "Current flight: a \"Schedule\" panel with the scheduled time, the simulator time (countdown, bonus window, delay) and the real time with the estimated finish.",
+   "Special flights: slot in simulator time, and each flight stays on offer for 48 h of real time. The flight you saw in the morning waits for you in the evening."
   ]
  },
- "sig": "79862f00cf6619dc0fb75c24bfc45284e78738eb81f7c6ef16f1d2e9246def9fc61b39940ecb99c4943f4f575a21055f0d1a81494500500e183fe49d2edcc300"
+ "sig": "b11d1b2b7d76dabfda5ab95a42fac2738751c2dbd4d6eca563fd22159db4c7be31ff1ba812888ef1ce4cb52a3784719e996085d3d8535fb8faee938d0b1a9000"
 }

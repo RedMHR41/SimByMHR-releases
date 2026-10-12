@@ -1,24 +1,26 @@
 {
- "version": "4.8.0",
+ "version": "4.9.0",
  "date": "2026-10-12",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.8.0/SimByMHR-Setup-4.8.0.exe",
- "sha256": "fe9fc79a2a6833a9e27867fae0284a447877dd8a5bad114343ddfb2b559d696e",
- "size": 11680185,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.9.0/SimByMHR-Setup-4.9.0.exe",
+ "sha256": "ca0be685f6c8d15265f0763904bec4785da31ffb80370222d1b0ad2328642371",
+ "size": 11727395,
  "notes": {
   "fr": [
-   "Nouvelle réputation, de −100 à +100 : 0 quand tu débutes, personne ne te connaît. Elle monte avec les vols bien faits (bonne note, départ à l'heure, atterrissage en douceur) et baisse avec les fautes (retard, feu ou transpondeur oublié, atterrissage dur, survitesse, déroutement non déclaré, vol annulé, licenciement). Tes vols passés comptent aussi.",
-   "Réputation négative : plus aucune offre d'emploi, surprime d'assurance sur les locations, missions payées et primes en baisse ; en mauvaise réputation (−50), les compétitions refusent ton inscription.",
-   "En compagnie, le chef pilote relit chaque vol : remarque pour une faute mineure (3 remarques font un avertissement), avertissement pour une faute majeure, convocation pour une faute grave. 3 avertissements, 2 en période d'essai (10 premiers vols), et c'est le licenciement ; 10 vols propres d'affilée effacent un avertissement. Bouton « Mon dossier ».",
-   "Licenciement : de −20 (1 étoile) à −50 (5 étoiles) de réputation, la moitié pour une période d'essai ratée, −10 pour un contrat rompu faute de vols.",
-   "Réglages : exigence des compagnies réaliste (par défaut) ou indulgente."
+   "Les compagnies regardent maintenant ton niveau et ta réputation, en plus des heures et de la note : niveau 1 et réputation 0 pour une compagnie 1 étoile, niveau 2 et +10 pour 2 étoiles, niveau 3 et +25 pour 3 étoiles, niveau 5 et +40 pour 4 étoiles, niveau 6 et +60 pour 5 étoiles. Chaque niveau au-dessus du minimum augmente tes chances.",
+   "Les 4 et 5 étoiles recrutent sur sélection : dossier et tests, puis un vrai vol d'évaluation dans MSFS au simulateur de la compagnie (80/100 minimum, 85 pour une 5 étoiles), puis entretien. Raté : nouvelle tentative dans cette compagnie une semaine plus tard. Le vol d'évaluation ne compte pas dans tes heures, ne touche pas ta réputation et ne te déplace pas.",
+   "Démarchage : à partir du niveau 4 et d'une réputation de +30, une compagnie peut t'écrire après un vol, avec +8 % sur le salaire, une prime d'embauche et parfois la qualification de type financée. Pour une 4 ou 5 étoiles, tu passes directement au vol d'évaluation.",
+   "Passer commandant de bord demande aussi un niveau et une réputation.",
+   "Nouvelles sources d'XP (vol noté au moins 50/100) : nouveau terrain +15, premier vol sur un type d'avion +30, vol de nuit +20 %, approche aux instruments +10 (pilote qualifié IR), vent de travers de 15 kt ou plus +15. Chaque licence, classe ou QT obtenue rapporte aussi de l'XP, y compris celles que tu as déjà achetées.",
+   "La carte du pilote dans le Bureau montre ce que débloque le prochain niveau ; tous les paliers sont détaillés dans « Niveaux, XP et succès »."
   ],
   "en": [
-   "New reputation, from −100 to +100: 0 when you start out, nobody knows you. It goes up with well-flown flights (good score, on-time departure, smooth landing) and down with mistakes (delays, a forgotten light or transponder, hard landings, overspeed, undeclared diversions, cancelled flights, dismissals). Your past flights count too.",
-   "Negative reputation: no more job offers, an insurance surcharge on rentals, lower pay and bonuses; with a bad reputation (−50), competitions turn down your entry.",
-   "In an airline, the chief pilot reviews every flight: a note for a minor mistake (3 notes make a warning), a warning for a major one, a summons for a serious one. 3 warnings, 2 during probation (first 10 flights), and you are dismissed; 10 clean flights in a row remove a warning. \"My record\" button.",
-   "Dismissal: −20 (1 star) to −50 (5 stars) reputation, half for a failed probation, −10 for a contract ended for lack of flights.",
-   "Settings: realistic (default) or lenient airline standards."
+   "Airlines now look at your level and reputation, as well as your hours and score: level 1 and reputation 0 for a 1-star airline, level 2 and +10 for 2 stars, level 3 and +25 for 3 stars, level 5 and +40 for 4 stars, level 6 and +60 for 5 stars. Each level above the minimum improves your chances.",
+   "4- and 5-star airlines hire through a selection: application and tests, then a real assessment flight in MSFS in the airline's simulator (80/100 minimum, 85 for a 5-star airline), then an interview. Failed: you can try again with that airline a week later. The assessment flight doesn't count in your hours, doesn't affect your reputation and doesn't move you.",
+   "Headhunting: from level 4 with a reputation of +30, an airline may write to you after a flight, with +8% on the salary, a signing bonus and sometimes the type rating paid for. For a 4- or 5-star airline, you go straight to the assessment flight.",
+   "Upgrading to captain also requires a level and a reputation.",
+   "New XP sources (flight scored 50/100 or more): new airfield +15, first flight on an aircraft type +30, night flight +20%, instrument approach +10 (IR-rated pilot), crosswind of 15 kt or more +15. Each licence, class or type rating you get also earns XP, including the ones you have already bought.",
+   "The pilot card in the Office shows what the next level unlocks; every step is detailed in \"Levels, XP and achievements\"."
   ]
  },
- "sig": "d82032cfa0bf4d7c5fd10a82c70e7f9265ed6f1a3871c71d564d538f127520f83916d98236348160c1761e2e623db4df1d616f9372cb3d28ff51fdf40c9b3a0c"
+ "sig": "1baf203fc44a933fa96c937590a2839d56575f38c6005a821c56d3dda3ed0b9c5ec7dc7c5ec00007f8b5942532b3fe43a73547bd88a36eec44a19f0382f47705"
 }

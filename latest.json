@@ -1,22 +1,24 @@
 {
- "version": "4.7.0",
- "date": "2026-10-11",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.7.0/SimByMHR-Setup-4.7.0.exe",
- "sha256": "89680da091acf4bab60c8c04140baa12797b38d2772a9dfd8ebedc7fafcbb77f",
- "size": 11645341,
+ "version": "4.8.0",
+ "date": "2026-10-12",
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.8.0/SimByMHR-Setup-4.8.0.exe",
+ "sha256": "fe9fc79a2a6833a9e27867fae0284a447877dd8a5bad114343ddfb2b559d696e",
+ "size": 11680185,
  "notes": {
   "fr": [
-   "Compétitions (rallyes, rassemblements) ouvertes aux bimoteurs et aux turbopropulseurs, avec un classement par catégorie : prix plus élevés en bimoteur (×1,15) et en turbopropulseur (×1,3). Le concours de précision reste réservé aux avions légers à pistons.",
-   "Qualification SET ou MEP sans CPL : nouveaux vols de pilote privé qualifié, convoyages pour des propriétaires et vols solidaires pour une association. Pas de salaire (il faut le CPL pour être payé, comme dans la réalité), mais frais du vol payés et bonus d'XP.",
-   "CPL : trois nouvelles missions payées, largage de parachutistes, fret express de nuit et surveillance aérienne (feux de forêt, lignes électriques).",
-   "Un avion qui devient pilotable (nouvelle licence, avion ajouté au hangar) reçoit tout de suite 2 vols spéciaux."
+   "Nouvelle réputation, de −100 à +100 : 0 quand tu débutes, personne ne te connaît. Elle monte avec les vols bien faits (bonne note, départ à l'heure, atterrissage en douceur) et baisse avec les fautes (retard, feu ou transpondeur oublié, atterrissage dur, survitesse, déroutement non déclaré, vol annulé, licenciement). Tes vols passés comptent aussi.",
+   "Réputation négative : plus aucune offre d'emploi, surprime d'assurance sur les locations, missions payées et primes en baisse ; en mauvaise réputation (−50), les compétitions refusent ton inscription.",
+   "En compagnie, le chef pilote relit chaque vol : remarque pour une faute mineure (3 remarques font un avertissement), avertissement pour une faute majeure, convocation pour une faute grave. 3 avertissements, 2 en période d'essai (10 premiers vols), et c'est le licenciement ; 10 vols propres d'affilée effacent un avertissement. Bouton « Mon dossier ».",
+   "Licenciement : de −20 (1 étoile) à −50 (5 étoiles) de réputation, la moitié pour une période d'essai ratée, −10 pour un contrat rompu faute de vols.",
+   "Réglages : exigence des compagnies réaliste (par défaut) ou indulgente."
   ],
   "en": [
-   "Competitions (rallies, fly-ins) are open to twins and turboprops, with one ranking per category: higher prizes in twins (×1.15) and turboprops (×1.3). The precision landing contest stays for light piston aircraft.",
-   "SET or MEP rating without a CPL: new qualified private pilot flights, ferry flights for owners and charity flights for an association. No pay (you need a CPL to be paid, as in real life), but the flight costs are covered and you earn extra XP.",
-   "CPL: three new paid missions, skydiver drops, overnight express freight and aerial surveillance (forest fires, power lines).",
-   "An aircraft that becomes flyable (new licence, aircraft added to the hangar) gets 2 special flights straight away."
+   "New reputation, from −100 to +100: 0 when you start out, nobody knows you. It goes up with well-flown flights (good score, on-time departure, smooth landing) and down with mistakes (delays, a forgotten light or transponder, hard landings, overspeed, undeclared diversions, cancelled flights, dismissals). Your past flights count too.",
+   "Negative reputation: no more job offers, an insurance surcharge on rentals, lower pay and bonuses; with a bad reputation (−50), competitions turn down your entry.",
+   "In an airline, the chief pilot reviews every flight: a note for a minor mistake (3 notes make a warning), a warning for a major one, a summons for a serious one. 3 warnings, 2 during probation (first 10 flights), and you are dismissed; 10 clean flights in a row remove a warning. \"My record\" button.",
+   "Dismissal: −20 (1 star) to −50 (5 stars) reputation, half for a failed probation, −10 for a contract ended for lack of flights.",
+   "Settings: realistic (default) or lenient airline standards."
   ]
  },
- "sig": "67f529eb7f6e6645c635ce424604af2a095eb559f2572c40556125d4a98cc43a6f236f569b3f7208c0cf9fe39d9384196be02085942c35f1306aeb88503c6d08"
+ "sig": "d82032cfa0bf4d7c5fd10a82c70e7f9265ed6f1a3871c71d564d538f127520f83916d98236348160c1761e2e623db4df1d616f9372cb3d28ff51fdf40c9b3a0c"
 }

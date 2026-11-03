@@ -1,24 +1,18 @@
 {
- "version": "4.10.0",
- "date": "2026-10-24",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.10.0/SimByMHR-Setup-4.10.0.exe",
- "sha256": "b242afda3219cd1441d95453cc5ad52db17935449896421ea28ceb5136ed80f2",
- "size": 11743621,
+ "version": "4.10.1",
+ "date": "2026-11-03",
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.10.1/SimByMHR-Setup-4.10.1.exe",
+ "sha256": "eaa247b2d12b88c9f4f628d9f6b81f8be2d6c492fbd1d5d0359e36c83c6cd7af",
+ "size": 11741005,
  "notes": {
   "fr": [
-   "Les missions rémunérées (CPL) sont mieux payées, comme un vrai pilote freelance payé surtout au temps passé en mission : un forfait de mission (60 € en monomoteur à pistons, 100 € en bimoteur, 150 € en turbopropulseur, la moitié pour un retour à vide), les heures de vol au même tarif, +25 % de nuit, et une prime qui grandit avec l'avion. En TBM 930, un taxi aérien de 1 h 25 passe d'environ 300 € à 470 €.",
-   "Nouvelles missions urgentes : de temps en temps, un client cherche un pilote tout de suite (transport médical, pièce AOG, taxi de dernière minute). Un bandeau et un message te préviennent. Le premier qui accepte la prend : 30 minutes pour accepter, puis 45 minutes (temps réel) pour enlever les cales. Parti à temps : heures majorées de 50 % et prime d'urgence ; en retard, payée comme une mission normale.",
-   "Chaque billet détaille la paie : forfait, heures, majorations, prime.",
-   "Les vols spéciaux ne changent pas : ils restent les mieux payés.",
-   "Les missions affichées avant la mise à jour sont remplacées par des missions au nouveau tarif ; un vol déjà accepté est payé comme prévu."
+   "Correction : « Générer mon planning » en compagnie aérienne affichait une erreur interne (« std_for_planning ») et ne créait aucun planning. Le défaut datait de la 4.5.0 ; tous les styles de rotation marchent à nouveau.",
+   "Une vérification automatique du code avant chaque version empêche ce genre d'erreur de revenir."
   ],
   "en": [
-   "Paid missions (CPL) pay better, like a real freelance pilot paid mostly for the time spent on a mission: a mission fee (€60 in a single-engine piston, €100 in a twin, €150 in a turboprop, half for an empty return), flight hours at the same rate, +25% at night, and a bonus that grows with the aircraft. In a TBM 930, a 1h25 air taxi goes from about €300 to €470.",
-   "New urgent missions: now and then, a client needs a pilot right away (medical transport, AOG part, last-minute taxi). A banner and a message let you know. The first pilot to accept gets it: 30 minutes to accept, then 45 minutes (real time) to go off blocks. Away in time: hours paid +50% and an urgency bonus; late, paid like a normal mission.",
-   "Each ticket shows how the pay is made up: fee, hours, premiums, bonus.",
-   "Special flights don't change: they remain the best paid.",
-   "Missions listed before the update are replaced with missions at the new rates; a flight already accepted is paid as announced."
+   "Fix: \"Generate my roster\" with an airline showed an internal error (\"std_for_planning\") and created no roster. The bug dated back to 4.5.0; every rotation style works again.",
+   "An automatic code check before each release keeps this kind of error from coming back."
   ]
  },
- "sig": "08de173b00b16e6d1e25832f16ce0188f90df2d0744723188046e2f3217774984e503028a67a04bb0bcfd4747e7befa8cb19837fc480f4af7ac4d29a5276ac0c"
+ "sig": "294680a3665959a7ddfef9b9786f028461dc1fd9fcf02ab94459824ab14800ccb9e1e01a5245a6b745cb65fbfa4f6d672282d126177b67ef3f4831738760b80d"
 }

@@ -1,18 +1,20 @@
 {
- "version": "4.10.1",
- "date": "2026-11-03",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.10.1/SimByMHR-Setup-4.10.1.exe",
- "sha256": "eaa247b2d12b88c9f4f628d9f6b81f8be2d6c492fbd1d5d0359e36c83c6cd7af",
- "size": 11741005,
+ "version": "4.11.0",
+ "date": "2026-11-05",
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.11.0/SimByMHR-Setup-4.11.0.exe",
+ "sha256": "f05b3525440a2d89b57eae93fe287b3c87ac6526e5696096439c26ddeda275ca",
+ "size": 11745674,
  "notes": {
   "fr": [
-   "Correction : « Générer mon planning » en compagnie aérienne affichait une erreur interne (« std_for_planning ») et ne créait aucun planning. Le défaut datait de la 4.5.0 ; tous les styles de rotation marchent à nouveau.",
-   "Une vérification automatique du code avant chaque version empêche ce genre d'erreur de revenir."
+   "Nouvelle compagnie NetJets (États-Unis, 3 étoiles), client de lancement du Citation Longitude : 91 Longitude, 137 Phenom 300 et 40 Challenger 650, bases à Columbus (KCMH) et Teterboro (KTEB), indicatif « EXECJET ».",
+   "Nouvelle compagnie Platoon Aviation (Hambourg, 1 étoile) : 12 Pilatus PC-24, indicatif « PLATOON ». Ses 4 premiers Citation Longitude arrivent comme en vrai : la fiche les montre en commande, et les postes ouvrent le 1er mars 2027, date des premières livraisons.",
+   "Flottes d'après les chiffres publiés en 2026 ; le nombre de Challenger 650 de NetJets est une estimation."
   ],
   "en": [
-   "Fix: \"Generate my roster\" with an airline showed an internal error (\"std_for_planning\") and created no roster. The bug dated back to 4.5.0; every rotation style works again.",
-   "An automatic code check before each release keeps this kind of error from coming back."
+   "New company NetJets (United States, 3 stars), launch customer of the Citation Longitude: 91 Longitudes, 137 Phenom 300s and 40 Challenger 650s, bases at Columbus (KCMH) and Teterboro (KTEB), callsign \"EXECJET\".",
+   "New company Platoon Aviation (Hamburg, 1 star): 12 Pilatus PC-24s, callsign \"PLATOON\". Its first 4 Citation Longitudes arrive as in real life: the company sheet shows them on order, and positions open on 1 March 2027, the date of the first deliveries.",
+   "Fleets based on figures published in 2026; the number of NetJets Challenger 650s is an estimate."
   ]
  },
- "sig": "294680a3665959a7ddfef9b9786f028461dc1fd9fcf02ab94459824ab14800ccb9e1e01a5245a6b745cb65fbfa4f6d672282d126177b67ef3f4831738760b80d"
+ "sig": "244da36b2f58669aa02a63ae17a4fcceb1b4d575612b5e9cbdb78df55d32d516cc4ee4485d5110b3d6bbc84965c1b4195558208f4cfa66678c5c0b2b0ec25e03"
 }

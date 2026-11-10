@@ -1,28 +1,16 @@
 {
- "version": "4.12.0",
+ "version": "4.12.1",
  "date": "2026-11-10",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.12.0/SimByMHR-Setup-4.12.0.exe",
- "sha256": "073780a6d0af7205c666970cb4cb2d055e58e13270d0c2504303c244ff37bca7",
- "size": 11865852,
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.12.1/SimByMHR-Setup-4.12.1.exe",
+ "sha256": "fab031459c7892a54516e03b9661997fd6328377e3ca22ef59ac1c2e3c893d0e",
+ "size": 11866717,
  "notes": {
   "fr": [
-   "Annonces cabine pendant le vol : chef de cabine, PNC et commandant de bord en compagnie, le commandant directement à son client en aviation d'affaires, le pilote par l'intercom en avion léger, et des annonces à l'équipe à bord pour l'évacuation sanitaire, le transport d'organes et le largage de parachutistes.",
-   "Chaque annonce part toute seule sur un geste réel dans MSFS, une seule fois par vol : embarquement, feu anticollision (portes), roulage (consignes de sécurité), alignement, palier de croisière, début de descente, train sorti, sortie de piste et arrivée au parking.",
-   "Cinq annonces en option : retard au départ, turbulences, circuit d'attente, remise des gaz et déroutement.",
-   "Les annonces parlent du vrai vol : compagnie, numéro de vol, altitude, temps restant, heure d'arrivée, météo réelle à destination (METAR) et issues de secours de l'avion.",
-   "En compagnie, l'annonce est dite en français puis en anglais. Avec le jeu en anglais, seul l'anglais reste, sauf dans une compagnie francophone comme Air France.",
-   "Voix de Windows avec un effet de cabine : carillon et son du haut-parleur de l'avion (ou du casque en avion léger). Dans les Réglages : annonces automatiques, sur bouton ou coupées, volume, effet, voix par rôle et par langue, et un bouton Écouter pour tester chaque voix.",
-   "Dans Vol en cours, un bouton par annonce pour la lancer ou la rejouer. La fenêtre de SimByMHR doit rester ouverte (réduite, ça marche)."
+   "Nouveau carillon avant les annonces aux passagers, refait d'après un enregistrement réel : deux notes pures et plus graves (ré puis si), à une seconde d'écart. Il passe par le haut-parleur de cabine, sans la distorsion de la voix."
   ],
   "en": [
-   "Cabin announcements during the flight: the purser, cabin crew and captain with an airline, the captain speaking straight to the client in business aviation, the pilot over the intercom in a light aircraft, and announcements to the team on board for medical evacuations, organ transport and parachute drops.",
-   "Each announcement plays by itself on a real action in MSFS, once per flight: boarding, beacon on (doors), taxi (safety briefing), line-up, cruise level, top of descent, gear down, runway vacated and arrival at the stand.",
-   "Five optional announcements: departure delay, turbulence, holding, go-around and diversion.",
-   "The announcements describe the real flight: airline, flight number, altitude, time remaining, arrival time, real weather at destination (METAR) and the aircraft's emergency exits.",
-   "With an airline, announcements are made in French then English. With the game in English, only English is used, except with a French-speaking airline such as Air France.",
-   "Windows voices with a cabin effect: chime and the sound of the aircraft loudspeaker (or the headset in a light aircraft). In Settings: automatic, on button only or off, volume, effect, a voice for each role and language, and a Listen button to test each voice.",
-   "In Current flight, one button per announcement to play or replay it. The SimByMHR window must stay open (minimised is fine)."
+   "New chime before passenger announcements, rebuilt from a real recording: two pure, lower notes (D then B), one second apart. It plays through the cabin loudspeaker, without the voice distortion."
   ]
  },
- "sig": "3042a87eacd35d62fb437c078b79984c3ec9c51939a3120b8aaa701a0219c23f5757946e761dd8872b5a5d426c1af98289ec94cc743af50b62e2b150ec9c2d0c"
+ "sig": "5ced0e58b2b752708d2ccf5796208468d8d91b1c387cb73d9576186e08bf4d7e2b50844de71c735807c2190a4a1cce48fbbdfdcf5a9402b331dd8cf31e6def0b"
 }

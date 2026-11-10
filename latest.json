@@ -1,20 +1,28 @@
 {
- "version": "4.11.0",
- "date": "2026-11-05",
- "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.11.0/SimByMHR-Setup-4.11.0.exe",
- "sha256": "f05b3525440a2d89b57eae93fe287b3c87ac6526e5696096439c26ddeda275ca",
- "size": 11745674,
+ "version": "4.12.0",
+ "date": "2026-11-10",
+ "url": "https://github.com/RedMHR41/SimByMHR-releases/releases/download/v4.12.0/SimByMHR-Setup-4.12.0.exe",
+ "sha256": "073780a6d0af7205c666970cb4cb2d055e58e13270d0c2504303c244ff37bca7",
+ "size": 11865852,
  "notes": {
   "fr": [
-   "Nouvelle compagnie NetJets (États-Unis, 3 étoiles), client de lancement du Citation Longitude : 91 Longitude, 137 Phenom 300 et 40 Challenger 650, bases à Columbus (KCMH) et Teterboro (KTEB), indicatif « EXECJET ».",
-   "Nouvelle compagnie Platoon Aviation (Hambourg, 1 étoile) : 12 Pilatus PC-24, indicatif « PLATOON ». Ses 4 premiers Citation Longitude arrivent comme en vrai : la fiche les montre en commande, et les postes ouvrent le 1er mars 2027, date des premières livraisons.",
-   "Flottes d'après les chiffres publiés en 2026 ; le nombre de Challenger 650 de NetJets est une estimation."
+   "Annonces cabine pendant le vol : chef de cabine, PNC et commandant de bord en compagnie, le commandant directement à son client en aviation d'affaires, le pilote par l'intercom en avion léger, et des annonces à l'équipe à bord pour l'évacuation sanitaire, le transport d'organes et le largage de parachutistes.",
+   "Chaque annonce part toute seule sur un geste réel dans MSFS, une seule fois par vol : embarquement, feu anticollision (portes), roulage (consignes de sécurité), alignement, palier de croisière, début de descente, train sorti, sortie de piste et arrivée au parking.",
+   "Cinq annonces en option : retard au départ, turbulences, circuit d'attente, remise des gaz et déroutement.",
+   "Les annonces parlent du vrai vol : compagnie, numéro de vol, altitude, temps restant, heure d'arrivée, météo réelle à destination (METAR) et issues de secours de l'avion.",
+   "En compagnie, l'annonce est dite en français puis en anglais. Avec le jeu en anglais, seul l'anglais reste, sauf dans une compagnie francophone comme Air France.",
+   "Voix de Windows avec un effet de cabine : carillon et son du haut-parleur de l'avion (ou du casque en avion léger). Dans les Réglages : annonces automatiques, sur bouton ou coupées, volume, effet, voix par rôle et par langue, et un bouton Écouter pour tester chaque voix.",
+   "Dans Vol en cours, un bouton par annonce pour la lancer ou la rejouer. La fenêtre de SimByMHR doit rester ouverte (réduite, ça marche)."
   ],
   "en": [
-   "New company NetJets (United States, 3 stars), launch customer of the Citation Longitude: 91 Longitudes, 137 Phenom 300s and 40 Challenger 650s, bases at Columbus (KCMH) and Teterboro (KTEB), callsign \"EXECJET\".",
-   "New company Platoon Aviation (Hamburg, 1 star): 12 Pilatus PC-24s, callsign \"PLATOON\". Its first 4 Citation Longitudes arrive as in real life: the company sheet shows them on order, and positions open on 1 March 2027, the date of the first deliveries.",
-   "Fleets based on figures published in 2026; the number of NetJets Challenger 650s is an estimate."
+   "Cabin announcements during the flight: the purser, cabin crew and captain with an airline, the captain speaking straight to the client in business aviation, the pilot over the intercom in a light aircraft, and announcements to the team on board for medical evacuations, organ transport and parachute drops.",
+   "Each announcement plays by itself on a real action in MSFS, once per flight: boarding, beacon on (doors), taxi (safety briefing), line-up, cruise level, top of descent, gear down, runway vacated and arrival at the stand.",
+   "Five optional announcements: departure delay, turbulence, holding, go-around and diversion.",
+   "The announcements describe the real flight: airline, flight number, altitude, time remaining, arrival time, real weather at destination (METAR) and the aircraft's emergency exits.",
+   "With an airline, announcements are made in French then English. With the game in English, only English is used, except with a French-speaking airline such as Air France.",
+   "Windows voices with a cabin effect: chime and the sound of the aircraft loudspeaker (or the headset in a light aircraft). In Settings: automatic, on button only or off, volume, effect, a voice for each role and language, and a Listen button to test each voice.",
+   "In Current flight, one button per announcement to play or replay it. The SimByMHR window must stay open (minimised is fine)."
   ]
  },
- "sig": "244da36b2f58669aa02a63ae17a4fcceb1b4d575612b5e9cbdb78df55d32d516cc4ee4485d5110b3d6bbc84965c1b4195558208f4cfa66678c5c0b2b0ec25e03"
+ "sig": "3042a87eacd35d62fb437c078b79984c3ec9c51939a3120b8aaa701a0219c23f5757946e761dd8872b5a5d426c1af98289ec94cc743af50b62e2b150ec9c2d0c"
 }
